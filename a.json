@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 76.95,
+        "lat": 43.25
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "облачно с прояснениями",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 34.95,
+        "feels_like": 33.38,
+        "temp_min": 34.95,
+        "temp_max": 34.95,
+        "pressure": 1001,
+        "humidity": 23,
+        "sea_level": 1001,
+        "grnd_level": 880
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2,
+        "deg": 30
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1722594078,
+    "sys": {
+        "type": 1,
+        "id": 8818,
+        "country": "KZ",
+        "sunrise": 1722555808,
+        "sunset": 1722608001
+    },
+    "timezone": 18000,
+    "id": 1526384,
+    "name": "Алматы",
+    "cod": 200
+}
