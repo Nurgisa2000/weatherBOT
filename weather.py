@@ -57,6 +57,9 @@ def proccessing(json):
     return caption 
 
 
+
+
+
 def get_weather_from_city(city: str):
     URL = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid=1327e58b44062a45b570ed26a0356900&units=metric&lang=ru"
 
